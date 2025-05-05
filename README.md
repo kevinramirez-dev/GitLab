@@ -25,6 +25,6 @@ The goal of this exercise is to understand and apply:
 - Developer 2: [Name Here]  
 
 **Professor**  
-- [Professor’s Full Name]
+- Prof. John Woods
 
 ---
