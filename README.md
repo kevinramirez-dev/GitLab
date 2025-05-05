@@ -1,2 +1,2 @@
 # GitLab
-DevOps - Module 10.2 Assignment
+*DevOps - Module 10.2 Assignment*
