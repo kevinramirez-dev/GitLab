@@ -21,8 +21,8 @@ The goal of this exercise is to understand and apply:
 - Kevin Ramirez
 
 **Developers**  
-- Developer 1: [Name Here]  
-- Developer 2: [Name Here]  
+- Developer 1: Paul Romer  
+- Developer 2: William Renard
 
 **Professor**  
 - Prof. John Woods
