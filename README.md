@@ -23,6 +23,7 @@ The goal of this exercise is to understand and apply:
 **Developers**  
 - Developer 1: Paul Romer  
 - Developer 2: William Renard
+- Developer 3: Kevin Ramirez
 
 **Professor**  
 - Prof. John Woods
